@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaurya-GitH
 - 👀 I’m interested in web development,blockchain technology and the java language
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on projects involving web development
 - 😄 Pronouns: he/him
 
