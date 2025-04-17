@@ -1,4 +1,4 @@
-Full-Stack Developer — Java/Spring Expert — React Frontend Engineer
+Full-Stack Developer — Java/Spring Expert — React Frontend Engineer |
 Technical undergraduate with proven expertise in Spring Boot backend development and ReactJS frontends. Built
 RESTful APIs with MySQL, Redis caching, and JWT security. Integrated AI models using WebSockets and
 multithreading. Co-authored an IEEE-style AI research paper and technical report on traffic flow modeling.
