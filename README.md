@@ -1,11 +1,9 @@
 # 💫 About Me:
-I’m a final-year Computer Science student actively working on understanding Kubernetes end-to-end, along with CI/CD pipelines and real-world DevOps problem-solving. I’ve gained hands-on experience with these systems through internships, where I’ve worked with production-grade infrastructure rather than toy setups.
-
-I’m a developer by practice, primarily working with Java, Go, and JavaScript. My experience spans from low-level web fundamentals to modern stacks—servlets to Spring Boot, JSP to React, and everything in between. I enjoy building across layers: web applications, compilers, CLI tools, and system-level utilities. Problem-solving and understanding how things work under the hood are what drive me.
-
-I also have a strong interest in cybersecurity and cryptography, shaped by my experience at a fintech company. This has trained me to think deeply about edge cases, threat models, and secure system design, and to implement solutions with security as a first-class concern rather than an afterthought.
-
-I’m currently in my 4th year of my Computer Science degree and have accumulated over 9 months of internship experience, continuously learning by building, breaking, and improving real systems.
+I'm a software engineer driven by solving difficult engineering problems rather than specializing in a single technology or domain. I enjoy understanding systems end-to-end, identifying bottlenecks, and building solutions that improve reliability, developer productivity, and business outcomes.
+Over the past few years I've worked across fintech and e-commerce, building production systems ranging from Open Banking platforms and enterprise marketplace integrations to deployment infrastructure, internal developer tools, and AI-powered engineering workflows. Moving between domains has taught me to quickly understand unfamiliar business problems, take ownership, and deliver production-ready solutions with minimal ramp-up time.
+I enjoy working across the entire engineering stack. Whether it's designing distributed event-driven systems, building backend services, automating infrastructure, strengthening security, optimizing deployment pipelines, or developing internal tooling, I'm most motivated when solving problems that have a measurable impact. I believe engineering is about choosing the right tool for the problem—not becoming attached to a particular stack.
+AI has become an integral part of how I build software. I continuously look for opportunities to leverage LLMs, MCP, and agentic workflows to automate repetitive work, improve engineering velocity, and augment developer workflows.
+I'm passionate about building reliable systems, learning new technologies through real-world projects, and tackling problems that require deep technical understanding, cross-domain thinking, and a willingness to dive into unfamiliar territory.
 
 
 ## 🌐 Socials:
