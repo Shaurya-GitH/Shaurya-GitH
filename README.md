@@ -1,10 +1,14 @@
-# 💫 About Me:
-I'm a software engineer driven by solving difficult engineering problems rather than specializing in a single technology or domain. I enjoy understanding systems end-to-end, identifying bottlenecks, and building solutions that improve reliability, developer productivity, and business outcomes.
-Over the past few years I've worked across fintech and e-commerce, building production systems ranging from Open Banking platforms and enterprise marketplace integrations to deployment infrastructure, internal developer tools, and AI-powered engineering workflows. Moving between domains has taught me to quickly understand unfamiliar business problems, take ownership, and deliver production-ready solutions with minimal ramp-up time.
-I enjoy working across the entire engineering stack. Whether it's designing distributed event-driven systems, building backend services, automating infrastructure, strengthening security, optimizing deployment pipelines, or developing internal tooling, I'm most motivated when solving problems that have a measurable impact. I believe engineering is about choosing the right tool for the problem—not becoming attached to a particular stack.
-AI has become an integral part of how I build software. I continuously look for opportunities to leverage LLMs, MCP, and agentic workflows to automate repetitive work, improve engineering velocity, and augment developer workflows.
-I'm passionate about building reliable systems, learning new technologies through real-world projects, and tackling problems that require deep technical understanding, cross-domain thinking, and a willingness to dive into unfamiliar territory.
+# 💫 About Me
 
+I'm a software engineer driven by solving difficult engineering problems rather than specializing in a single technology or domain. I enjoy understanding systems end-to-end, identifying bottlenecks, and building solutions that improve reliability, developer productivity, and business outcomes.
+
+Over the past few years I've worked across fintech and e-commerce, building production systems ranging from Open Banking platforms and enterprise marketplace integrations to deployment infrastructure, internal developer tools, and AI-powered engineering workflows. Moving between domains has taught me to quickly understand unfamiliar business problems, take ownership, and deliver production-ready solutions with minimal ramp-up time.
+
+I enjoy working across the entire engineering stack. Whether it's designing distributed event-driven systems, building backend services, automating infrastructure, strengthening security, optimizing deployment pipelines, or developing internal tooling, I'm most motivated when solving problems that have a measurable impact. I believe engineering is about choosing the right tool for the problem—not becoming attached to a particular stack.
+
+AI has become an integral part of how I build software. I continuously look for opportunities to leverage LLMs, MCP, and agentic workflows to automate repetitive work, improve engineering velocity, and augment developer workflows.
+
+I'm passionate about building reliable systems, learning new technologies through real-world projects, and tackling problems that require deep technical understanding, cross-domain thinking, and a willingness to dive into unfamiliar territory.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-mehta-0b916a349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehta.shaurya123@gmail.com) 
